@@ -1,4 +1,4 @@
-package com.brioal.ccf2;
+package com.brioal.smallmiddlebig;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.brioal.ccf1;
+package com.brioal.xiaomingapple;
 
 import java.util.Scanner;
 
